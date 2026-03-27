@@ -1,6 +1,6 @@
 # 🚀 DSA Problem Solving Patterns
 
-This repository contains my structured journey of mastering Data Structures & Algorithms (DSA) through core problem-solving patterns. Instead of memorizing 1000+ problems, I focus on the underlying strategies that solve entire classes of questions.
+This repository contains my structured journey of mastering Data Structures & Algorithms (DSA) through core problem-solving patterns. Instead of memorizing 1000+ problems, I focus on the underlying strategies that solve entire class of questions.
 
 ## 📁 Repository Structure
 - Each folder is named after a **Pattern**.
