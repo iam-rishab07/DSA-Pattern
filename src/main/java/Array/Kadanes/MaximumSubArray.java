@@ -12,7 +12,7 @@ public class MaximumSubArray {
             sum+=nums[i];
 
             // step 2 : check if maxi<sum
-            maxi=maxi<sum? sum:maxi;
+            maxi= Math.max(maxi, sum);
 
             // step 3 : reset sum if sum<=0
             sum=sum<=0?0:sum;
